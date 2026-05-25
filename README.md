@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Shreyam Majumdar 👋
 
-<!--
-**ShreyamMajumdar/ShreyamMajumdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Artificial Intelligence & Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE (AIML) Student at Meghnad Saha Institute of Technology  
+📍 Kolkata, India  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- Generative AI
+- Agentic AI Systems
+- NLP & LLM Applications
+- Predictive Modeling
+
+### Currently Exploring
+- LLM Workflows
+- AI Automation
+- Intelligent Systems
+- Generative AI Applications
+
+### Tech Stack
+- Python
+- Machine Learning
+- SQL
+- HTML, CSS, JavaScript
+- Agentic AI
+- GitHub
+
+### Connect With Me
+- LinkedIn: https://linkedin.com/in/shreyam-majumdar
+- GitHub: https://github.com/ShreyamMajumdar
