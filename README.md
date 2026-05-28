@@ -72,18 +72,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Shreyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyamMajumdar&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyamMajumdar&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ShreyamMajumdar&theme=tokyonight&no-frame=true&row=1&column=6)
-
----
-
 *Open to opportunities in AI/ML, Data Science, Generative AI and Intelligent Systems.* 🚀
